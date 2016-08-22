@@ -9,7 +9,7 @@ License: GPLv2
 //      -webkit-filter:  sepia(100%) hue-rotate(22deg) saturate(820%) brightness(29%);
 // psn: -webkit-filter:  sepia(100%) hue-rotate(618deg) saturate(285%);
 // brn: -webkit-filter:  sepia(100%) hue-rotate(311deg) saturate(469%);
-// slp: -webkit-filter:  grayscale(100%);
+// slp: -webkit-filter:  grayscale(100%); TESTING.
 // frz: -webkit-filter:  sepia(100%) hue-rotate(154deg) saturate(759%) brightness(23%);
 
 $.extend($.easing, {
