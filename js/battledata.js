@@ -1311,7 +1311,8 @@ var Tools = {
 			"gallademega": 913,
 			"audinomega": 914,
 			"dianciemega": 915,
-			"hoopaunbound": 916,
+			"roserademega": 916,
+			"hoopaunbound": 917,
 			"syclant": 832 + 0,
 			"revenankh": 832 + 1,
 			"pyroak": 832 + 2,
@@ -1470,7 +1471,8 @@ var Tools = {
 			abomasnowmega: 852 + 46,
 			gallademega: 852 + 47,
 			audinomega: 852 + 48,
-			dianciemega: 852 + 49
+			dianciemega: 852 + 49,
+			roserademega: 852 + 50
 		};
 		if (newSize) {
 			if (newAltNums[id]) num = newAltNums[id];

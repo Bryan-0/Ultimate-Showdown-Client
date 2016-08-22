@@ -480,6 +480,7 @@ exports.BattlePokemonSprites = {
 	"luxray": {num:405, front:{ani:{w:87, h:99}}, back:{ani:{w:105, h:91}}},
 	"budew": {num:406, front:{ani:{w:42, h:49}}, back:{ani:{w:40, h:51}}},
 	"roserade": {num:407, front:{ani:{w:57, h:78}}, back:{ani:{w:58, h:78}}},
+	"roserade-mega": {num: 407 front:{w:96, h:96}}, back: {ani:{w: 96, h: 96}},
 	"cranidos": {num:408, front:{ani:{w:48, h:68}}, back:{ani:{w:49, h:64}}},
 	"rampardos": {num:409, front:{ani:{w:75, h:89}}, back:{ani:{w:92, h:86}}},
 	"shieldon": {num:410, front:{ani:{w:46, h:55}}, back:{ani:{w:54, h:54}}},
